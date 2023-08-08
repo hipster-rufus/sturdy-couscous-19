@@ -15,6 +15,8 @@ The "Just Another Text Editor" App can be used to edit text either online or off
 ## Credits
 The following websites were used to generate this project:
 
+[The Full-Stack Blog: Heroku Deployment Guide](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
+
 [Web.Dev: Add Manifest](https://web.dev/add-manifest/)
 
 [Coolors](https://coolors.co/)
